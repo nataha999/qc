@@ -12,7 +12,6 @@ import static org.junit.Assert.assertEquals;
 public class BasketTest {
     @Mock
     Product product;
-
     Basket basket = new Basket();
 
     @Test
